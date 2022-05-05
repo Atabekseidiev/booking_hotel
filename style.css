@@ -8,8 +8,8 @@ body{
     justify-content: flex-end;
     align-items: center;
     height: 48px;
-    border: 1px solid black;
     margin: 0 auto;
+    box-shadow:  gray;
 }
 h1{
     margin: 0 250px;
