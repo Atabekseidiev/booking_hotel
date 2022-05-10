@@ -1,0 +1,25 @@
+.room{
+    background: url("./img/room.jpg") no-repeat center;
+    height: 660px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.book {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    max-width: 525px;
+    text-align: center;
+}
+
+.bed {
+    padding: 3px 15px;
+    border: 1px solid white;
+    color: white;
+    position: relative;
+    top: 48px;
+    right: 324px;
+}
